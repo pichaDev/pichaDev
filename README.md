@@ -24,9 +24,13 @@ Uso tanto Windows como Linux (normalmente EndeavourOS/Arch), dependiendo del pro
 
 ## GitHub Stats
 
-![Stats](https://github-readme-stats-alpha.vercel.app/api?username=pichaDev&show_icons=true&hide_border=true&count_private=true)
+![Stats](https://github-readme-stats-one.vercel.app/api?username=pichaDev&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800)
 
-![Top Langs](https://github-readme-stats-alpha.vercel.app/api/top-langs/?username=pichaDev&layout=compact&hide_border=true)
+![Top Langs](https://github-readme-stats-one.vercel.app/api/top-langs/?username=pichaDev&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=pichaDev&theme=tokyonight&hide_border=true)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pichaDev&theme=tokyo-night&hide_border=true)
 
 ---
 
