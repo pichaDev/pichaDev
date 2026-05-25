@@ -1,12 +1,14 @@
 # Hola, soy pichaDev
 
-Estoy aprendiendo informática en general, tocando desarrollo, sistemas y todo lo que me llame la atención. Me gusta bastante todo el mundo del software, aunque bases de datos no es lo que mejor llevo.
+Estoy aprendiendo informática en general, pasando por desarrollo, sistemas y cualquier cosa que me parezca interesante.
 
-Uso tanto Windows como Linux (normalmente EndeavourOS con Arch), dependiendo del proyecto o lo que esté trasteando.
+Me gusta bastante el mundo del software y el self-hosting, aunque las bases de datos siguen siendo mi punto más flojo.
+
+Uso tanto Windows como Linux (normalmente EndeavourOS/Arch), dependiendo del proyecto o de lo que esté haciendo.
 
 ---
 
-## Stack y cosas que uso
+## Stack y tecnologías
 
 ![Linux](https://img.shields.io/badge/Linux-333?style=flat&logo=linux)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows)
@@ -32,20 +34,20 @@ Uso tanto Windows como Linux (normalmente EndeavourOS con Arch), dependiendo del
 
 Tengo un servidor propio con ZimaOS y varios contenedores Docker.
 
-Lo principal es **Pichaflix**, mi Jellyfin personal, donde tengo montado todo el contenido multimedia (ya cerca de 15TB y creciendo).
+Lo principal es **Pichaflix**, mi servidor multimedia basado en Jellyfin, donde gestiono actualmente cerca de 15TB de contenido.
 
-Uso automatización con stack ARR, JFA-Go para usuarios e invitaciones y Jellyseerr para solicitudes de contenido.
+Utilizo automatización con el stack ARR, Jellyseerr para solicitudes, JFA-Go para gestión de usuarios e invitaciones y varios servicios adicionales para monitorización y administración.
 
-También tengo un bot (Pichabot) conectado a Telegram y mis equipos para gestionar el servidor, además de un NAS para ampliar almacenamiento.
-
----
-
-## Otros
-
-También he trabajado bastante con Minecraft, creando y gestionando servidores con mods y plugins.
-
-Me gustan los videojuegos, la música, el anime y las series en general.
+También tengo un bot llamado **Pichabot**, conectado a Telegram y a mis equipos, para gestionar diferentes tareas del servidor y automatizaciones.
 
 ---
 
-Y eso, voy trasteando cosas y aprendiendo sobre la marcha.
+## Otros proyectos e intereses
+
+También he trabajado bastante con Minecraft, creando y administrando servidores con mods y plugins.
+
+Fuera de la informática me gustan los videojuegos, la música, el anime y las series.
+
+---
+
+Aprendiendo y experimentando sobre la marcha.
