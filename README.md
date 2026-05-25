@@ -1,4 +1,4 @@
-# Hola, soy Daniel Romero
+# Hola, soy pichaDev
 
 Estoy aprendiendo informática en general, tocando desarrollo, sistemas y todo lo que me llame la atención. Me gusta bastante todo el mundo del software, aunque bases de datos no es lo que mejor llevo.
 
@@ -22,9 +22,9 @@ Uso tanto Windows como Linux (normalmente EndeavourOS con Arch), dependiendo del
 
 ## GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=elmagodehoja&show_icons=true&hide_border=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=pichaDev&show_icons=true&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elmagodehoja&layout=compact&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pichaDev&layout=compact&hide_border=true)
 
 ---
 
